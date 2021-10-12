@@ -1,6 +1,6 @@
 future==0.18.2
 numpy==1.18.1
-opencv-python==4.1.2.30
+opencv-python==4.2.0.32
 pycparser==2.19
 python-telegram==0.10.0
 python-telegram-bot==12.3.0
