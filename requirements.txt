@@ -1,5 +1,5 @@
 future==0.18.2
-numpy==1.18.1
+numpy==1.22.0
 opencv-python==4.1.2.30
 pycparser==2.19
 python-telegram==0.10.0
